@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Plaza Loreto",
+    "address": "Altamirano 46, Tizapán San Ángel, Álvaro Obregón, Ciudad de México",
+    "lat": 19.3396,
+    "lon": -99.194,
+    "source_url": "https://mexicocity.cdmx.gob.mx/venues/plaza-loreto/",
+    "maps_url": "https://www.google.com/maps/dir/?api=1&destination=19.3396,-99.194",
+    "number": 1,
+    "map_x": 288.4410234678953,
+    "map_y": 264.56379213826096
+  },
+  {
+    "name": "Centro Santa Fe",
+    "address": "Av. Vasco de Quiroga 3800, Santa Fe Cuajimalpa, C.P. 05348, Cuajimalpa de Morelos, Ciudad de México",
+    "lat": 19.3607774,
+    "lon": -99.274733,
+    "source_url": "https://centrosantafe.com.mx/pages/localizacion",
+    "maps_url": "https://www.google.com/maps/dir/?api=1&destination=19.3607774,-99.274733",
+    "number": 2,
+    "map_x": 226.87864233948272,
+    "map_y": 247.45138966184098
+  },
+  {
+    "name": "Plaza Grand San Francisco",
+    "address": "Desierto de los Leones 5525, Alcantarilla, C.P. 01729, Álvaro Obregón, Ciudad de México",
+    "lat": 19.338752990198177,
+    "lon": -99.24294588634764,
+    "source_url": "https://mexicocity.cdmx.gob.mx/venues/grand-san-francisco/",
+    "maps_url": "https://www.google.com/maps/dir/?api=1&destination=19.338752990198177,-99.24294588634764",
+    "number": 3,
+    "map_x": 251.11768220717812,
+    "map_y": 265.2482185848634
+  }
+]

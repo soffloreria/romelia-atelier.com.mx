@@ -1,0 +1,20 @@
+ROMELIA ATELIER — LISTO PARA GITHUB PAGES
+
+Esta carpeta contiene la web completa, con fotos, tipografías, mapa rosa, tres puntos de entrega, catálogo y preferencias de cookies.
+
+1. Abre https://github.com/soffloreria/romelia-atelier desde tu computadora.
+2. En la pestaña Code, elige Add file > Upload files.
+3. Abre la carpeta descomprimida y arrastra su CONTENIDO completo: index.html, styles.css, catalogo.js, consent.js, script.js y assets. Los archivos principales deben quedar directamente en el repositorio.
+4. Espera a que termine la carga y guarda con Commit changes en la rama que usas para publicar, normalmente main.
+5. En Settings > Pages revisa Source: Deploy from a branch; rama: la misma donde subiste los archivos, normalmente main; carpeta: /(root). Guarda si cambiaste algo.
+6. Cuando termine la publicación, abre https://soffloreria.github.io/romelia-atelier/.
+
+Las imágenes se suben juntas dentro de assets; no necesitas subirlas una por una. No hace falta crear otro repositorio, abrir Visual Studio Code ni pagar un dominio para esta dirección.
+
+Las etiquetas de dirección y la imagen para compartir ya están preparadas para tu GitHub Pages.
+
+PUNTOS DE ENTREGA
+1. Plaza Loreto, Tizapán San Ángel.
+2. Centro Santa Fe, Av. Vasco de Quiroga 3800.
+3. Plaza Grand San Francisco, Desierto de los Leones 5525, Alcantarilla.
+Cada marcador abre indicaciones de Google Maps. El punto exacto de encuentro se acuerda por WhatsApp.

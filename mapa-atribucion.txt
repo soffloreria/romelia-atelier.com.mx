@@ -1,0 +1,13 @@
+MAPA DE ENTREGAS — ROMELIA ATELIER
+
+Atribución corta para el pie de mapa:
+Mapa base: SGIRPC CDMX.
+
+Fuente primaria / source_url:
+https://serviciosatlas.sgirpc.cdmx.gob.mx/arcgis/rest/services/ProyectoAguaBJU/MapServer/18
+
+Servicio oficial de la Secretaría de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México.
+Capa: Alcaldías (ID: 18), 16 polígonos administrativos. Descarga de geometría GeoJSON en EPSG:4326 mediante /query, outFields=*, where=1=1. Consultado el 16 de octubre de 2026.
+
+Tratamiento de diseño:
+La geometría real fue proyectada localmente con norte arriba y simplificada para el tamaño de visualización. Las manchas rosas se añadieron como referencia cardinal aproximada de sur y poniente; NO son polígonos de cobertura ni representan cobertura de alcaldías enteras. No se dibuja origen del negocio ni radio de 5 km. La página debe indicar que la cobertura se confirma con la dirección.
